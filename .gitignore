@@ -1,0 +1,15 @@
+#Build and run files
+build/
+*.o
+*.so
+*.a
+# Vim files
+*.swp
+*.swo
+*.bak
+*.tmp
+*.~
+# Emacs files
+*~
+.#*
+

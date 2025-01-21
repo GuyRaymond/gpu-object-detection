@@ -2,8 +2,8 @@ This project demonstrates object detection using GPU acceleration with OpenCV an
 
 ## Prerequisites
 
-- [Docker]:https://docs.docker.com/desktop installed on your system.
-- [CUDA Toolkit]:https://developer.nvidia.com/cuda-downloads installed to enable GPU support.
+- [Docker](https://docs.docker.com/desktop) installed on your system.
+- [CUDA Toolkit](https://developer.nvidia.com/cuda-downloads) installed to enable GPU support.
 
 ## Running the Solution
 
